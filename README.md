@@ -10,6 +10,13 @@ El proyecto utiliza el framework Svelte para el frontend y Spring Boot para el b
 
 
 
+## Integrantes:
+
+- Sara Lucia Lozano Rueda
+- Juan Jose Basto Gonzalez
+- Johan Alexander García Campos
+
+  
 # Backend
 
 ```bash
